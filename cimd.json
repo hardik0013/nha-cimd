@@ -2,10 +2,7 @@
   "client_id": "https://raw.githubusercontent.com/hardik0013/nha-cimd/main/cimd.json",
   "client_name": "NHA Security Test Client",
   "client_uri": "https://github.com/hardik0013/nha-cimd",
-  "redirect_uris": [
-    "https://z221ddv62a9kwuxmi04hz3tk5bb39ry.oastify.com/cb",
-    "http://127.0.0.1:8765/cb"
-  ],
+  "redirect_uris": ["https://z221ddv62a9kwuxmi04hz3tk5bb39ry.oastify.com/cb"],
   "grant_types": ["authorization_code", "refresh_token"],
   "response_types": ["code"],
   "token_endpoint_auth_method": "none",
