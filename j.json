@@ -1,0 +1,15 @@
+{
+  "client_id": "https://hardik0013.github.io/nha-cimd/j.json",
+  "client_name": "NHA SecTest J",
+  "client_uri": "https://wssy3al3s7zhmrnj8xuep0jhv8100op.oastify.com/f_clienturi",
+  "logo_uri": "https://wssy3al3s7zhmrnj8xuep0jhv8100op.oastify.com/f_logo",
+  "policy_uri": "https://wssy3al3s7zhmrnj8xuep0jhv8100op.oastify.com/f_policy",
+  "tos_uri": "https://wssy3al3s7zhmrnj8xuep0jhv8100op.oastify.com/f_tos",
+  "jwks_uri": "https://wssy3al3s7zhmrnj8xuep0jhv8100op.oastify.com/f_jwks",
+  "sector_identifier_uri": "https://wssy3al3s7zhmrnj8xuep0jhv8100op.oastify.com/f_sector",
+  "redirect_uris": ["https://z221ddv62a9kwuxmi04hz3tk5bb39ry.oastify.com/cb"],
+  "grant_types": ["authorization_code"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none",
+  "scope": "mcp"
+}
