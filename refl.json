@@ -1,0 +1,10 @@
+{
+  "client_id": "SENTINEL-CLIENTID-9b2f1c",
+  "client_name": "SENTINEL-CLIENTNAME-7a3e5d",
+  "client_uri": "https://github.com/hardik0013/nha-cimd",
+  "redirect_uris": ["https://z221ddv62a9kwuxmi04hz3tk5bb39ry.oastify.com/cb"],
+  "grant_types": ["authorization_code"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none",
+  "scope": "mcp"
+}
